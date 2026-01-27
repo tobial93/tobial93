@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Tobias </h1>
+  <h1>Hi 👋, I'm Tobias Lewen</h1>
   <h3>Data & Analytics Engineer | Infrastructure Enthusiast</h3>
   
   <p>
@@ -20,8 +20,8 @@ I bridge the gap between complex cloud infrastructure and decision-ready busines
 ---
 
 ### 🛠️ Featured Projects
-* **[Self-Storage Analytics Dashboard](https://github.com/tobial93)** (SaaS) – A full-stack operational monitoring solution.
-* **[Pinterest SEO Optimizer](https://github.com/tobial93)** – Data-driven automation tool for programmatic growth.
+* **[Self-Storage Analytics Dashboard](https://github.com/tobial93/self-storage-analytics-dashboard)** – A full-stack operational monitoring solution for storage facility management.
+* **[Pinterest SEO Optimizer](https://github.com/tobial93)** – Data-driven automation tool for programmatic keyword growth.
 
 ---
 
